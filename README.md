@@ -18,12 +18,7 @@ title: Real Time Water Qualtiy Measurement System
 -  E/14/364, WARUSAMANA D.N., [e14364@eng.pdn.ac.lk](mailto:e14364@eng.pdn.ac.lk)
 -  E/14/380, WELIKALA E.Y., [e14380@eng.pdn.ac.lk](mailto:e14380@eng.pdn.ac.lk)
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Solution Architecture](#solution-architecture )
-3. [Links](#links)
 
----
 
 ## Introduction
 
